@@ -1,4 +1,5 @@
 "let mapleader=","
+" CR Y Enter es lo mismo
 "map <Leader>w :w<CR>
 "map <F6> :w<Enter>
 
